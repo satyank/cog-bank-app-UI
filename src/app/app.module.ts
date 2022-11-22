@@ -12,18 +12,12 @@ import { CustomerLoginComponent } from './customer-login/customer-login.componen
 import { CustomerDashboardComponent } from './customer-dashboard/customer-dashboard.component';
 import { AdminLoginComponent } from './admin-login/admin-login.component';
 import { AdminDashboardComponent } from './admin-dashboard/admin-dashboard.component';
+import { LandingPageComponent } from './landing-page/landing-page.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    StaffLoginComponent,
-    StaffDashboardComponent,
-    LandingPageComponent,
-    CustomerSignupComponent,
-    CustomerLoginComponent,
-    CustomerDashboardComponent,
-    AdminLoginComponent,
-    AdminDashboardComponent
+    LandingPageComponent
   ],
   imports: [
     BrowserModule,
