@@ -1,19 +1,11 @@
-img {
-  margin-left: 25px;
-}
+
 
 .brand-img {
   height: 50px;
   width: 50px;
 }
 
-.header {
-  display: grid;
-  grid-template-columns: auto auto;
-  margin: 10px;
-  padding: 10px;
-  background-color:#e4f1fe
-}
+
 
 .body {
   margin: 10px 150px 10px 150px;
